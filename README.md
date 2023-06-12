@@ -2,7 +2,7 @@
 Study of thermo-hydraulics in the IEA-R1 research reactor
 Introdução ao Projeto: Análise Termo-Hidráulica de Reatores Nucleares
 
-O projeto de Análise Termo-Hidráulica de Reatores Nucleares no GitHub oferece uma solução abrangente para a modelagem e simulação de fenômenos termo-hidráulicos em reatores nucleares de pesquisa tipo placa. Combinando o conhecimento do Método Nodal e os princípios da condução térmica do combustível e convecção esse projeto tem como objetivo fornecer uma ferramenta simples e acessível para estudar e otimizar a operação de reatores nucleares de pesquisa.
+O projeto de Análise Termo-Hidráulica de Reatores Nucleares oferece uma solução abrangente para a modelagem e simulação de fenômenos termo-hidráulicos em reatores nucleares de pesquisa tipo placa. Combinando o conhecimento do Método Nodal e os princípios da condução térmica do combustível e convecção, esse projeto tem como objetivo fornecer uma ferramenta simples e acessível para estudar e otimizar a operação de reatores nucleares de pesquisa.
 
 O que o projeto faz:
 
